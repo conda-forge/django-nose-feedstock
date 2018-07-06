@@ -14,14 +14,15 @@ Summary: Makes your Django tests simple and snappy
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/django-nose-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/django-nose-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/django-nose-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/django-nose-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/django-nose-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/django-nose-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/django-nose-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/django-nose-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-nose/badges/version.svg)](https://anaconda.org/conda-forge/django-nose)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-nose/badges/downloads.svg)](https://anaconda.org/conda-forge/django-nose)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-django--nose-green.svg)](https://anaconda.org/conda-forge/django-nose) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/django-nose.svg)](https://anaconda.org/conda-forge/django-nose) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/django-nose.svg)](https://anaconda.org/conda-forge/django-nose) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/django-nose.svg)](https://anaconda.org/conda-forge/django-nose) |
 
 Installing django-nose
 ======================
