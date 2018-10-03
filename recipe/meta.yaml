@@ -1,6 +1,6 @@
 {% set name = "django-nose" %}
-{% set version = "1.4.5" %}
-{% set sha256 = "87663f18cb25f01d56c84ac1ff8a0e6e6a6246264b2549b751cb239d0642e76a" %}
+{% set version = "1.4.6" %}
+{% set sha256 = "58934a06a6932696e54c9e8af3fab49bf67ca9e9c840ad668cb7f51219808a07" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
